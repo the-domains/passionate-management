@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: We can spend time or invest time. The difference is in the timing of the outcomes.
-datePublished: '2016-04-11T21:23:21.945Z'
-dateModified: '2016-04-11T21:23:20.960Z'
+datePublished: '2016-04-11T22:32:59.437Z'
+dateModified: '2016-04-11T21:23:28.078Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-we-can-spend-time-or-invest-time-the-difference-is-in-the-t.md
@@ -117,5 +117,6 @@ Normally the profitability is determined on purely financial terms. Just compare
 
 Where the top results vary you need to find ways to reduce your time input without lessening the attention these clients, products and marketing activities receive.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d36ffb5-2a2e-4d89-8c81-384ce5861fa4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a658d48-c881-4233-8e97-f6a387794cdf.jpg)
 
 [0]: http://www.passionate.com.au/wp/entrepreneur/invest-time
