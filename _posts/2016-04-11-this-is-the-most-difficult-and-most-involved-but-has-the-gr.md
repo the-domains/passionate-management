@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is the most difficult and most involved, but has the greatest long-term results. In reality all preliminary steps just prepare you for this ultimate vision: becoming redundant.'
-datePublished: '2016-04-11T21:25:50.733Z'
-dateModified: '2016-04-11T21:25:19.731Z'
+datePublished: '2016-04-11T22:33:29.385Z'
+dateModified: '2016-04-11T21:28:43.448Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-11-this-is-the-most-difficult-and-most-involved-but-has-the-gr.md
