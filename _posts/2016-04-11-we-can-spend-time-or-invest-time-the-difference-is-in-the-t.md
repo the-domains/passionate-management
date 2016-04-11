@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: We can spend time or invest time. The difference is in the timing of the outcomes.
-datePublished: '2016-04-11T21:20:50.730Z'
-dateModified: '2016-04-11T21:03:02.967Z'
+datePublished: '2016-04-11T21:23:21.945Z'
+dateModified: '2016-04-11T21:23:20.960Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-11-we-can-spend-time-or-invest-time-the-difference-is-in-the-t.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-we-can-spend-time-or-invest-time-the-difference-is-in-the-t.md
-published: true
 url: we-can-spend-time-or-invest-time-the-difference-is-in-the-t/index.html
 _type: Article
 
