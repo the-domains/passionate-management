@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Passionate Management]]></title>
+        <description><![CDATA[Passionate Management]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 20:46:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deciding on Core Business]]></title>
+            <description><![CDATA[<article><h1>Deciding on Core Business</h1><p>One of the keys in running a successful business is understanding what the core business is. With my bookkeeping venture it took quite a long time to understand that. And I had to radically change direction a few times to really get to it.</p></article>]]></description>
+            <link>undefineddeciding-on-core-business/index.html</link>
+            <guid isPermaLink="false">7aca4870-3ce3-4404-bec5-a6b71e82cdbd</guid>
+            <pubDate>Mon, 11 Apr 2016 20:46:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
