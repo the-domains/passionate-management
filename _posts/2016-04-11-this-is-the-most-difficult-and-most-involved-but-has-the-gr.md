@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is the most difficult and most involved, but has the greatest long-term results. In reality all preliminary steps just prepare you for this ultimate vision: becoming redundant.'
-datePublished: '2016-04-11T21:07:09.085Z'
-dateModified: '2016-04-11T21:07:07.494Z'
+datePublished: '2016-04-11T21:25:50.733Z'
+dateModified: '2016-04-11T21:25:19.731Z'
 author: []
 title: ''
+sourcePath: _posts/2016-04-11-this-is-the-most-difficult-and-most-involved-but-has-the-gr.md
+published: true
 authors: []
 publisher:
   name: passionate.com.au
   domain: passionate.com.au
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-this-is-the-most-difficult-and-most-involved-but-has-the-gr.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
@@ -28,6 +28,7 @@ _type: Article
 This is the most difficult and most involved, but has the greatest long-term results. In reality all preliminary steps just prepare you for this ultimate vision: becoming redundant.
 
 There is an emotional component to it. To a large extend we are defined by the things we do, especially at work. Becoming redundant is challenging that.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/945ed50f-b103-4c40-94a1-cbe5bf0fbf5a.jpg)
 
 And this is where the mastery of the first step (spending time) becomes essential; life needs to be filled with meaningful and joyous activities. Otherwise there is no point in working towards redundancy.
 
@@ -131,3 +132,4 @@ The goal is that the operations manual defines every process in the business. It
 Over time you will stop reviewing the achievement of some areas and have people oversee that. Continue to pass on areas of responsibility until you are no longer in any position on the organisational chart.
 
 At that point, you can live off the profits, sell the business or continue to work in the areas that you enjoy. It is then your choice.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3526e88e-6303-4a92-8c6f-589709189a20.jpg)
