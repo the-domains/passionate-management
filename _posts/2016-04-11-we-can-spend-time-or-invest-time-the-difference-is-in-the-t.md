@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: We can spend time or invest time. The difference is in the timing of the outcomes.
-datePublished: '2016-04-11T21:02:54.699Z'
-dateModified: '2016-04-11T21:02:53.671Z'
+datePublished: '2016-04-11T21:20:50.730Z'
+dateModified: '2016-04-11T21:03:02.967Z'
 title: ''
 author: []
 authors: []
@@ -116,5 +116,6 @@ The exercises above only tell you something about the profitability of your clie
 Normally the profitability is determined on purely financial terms. Just compare the profitability of clients and products to their respective turnover, compare the profitability of marketing projects to their monetary costs.
 
 Where the top results vary you need to find ways to reduce your time input without lessening the attention these clients, products and marketing activities receive.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d36ffb5-2a2e-4d89-8c81-384ce5861fa4.jpg)
 
 [0]: http://www.passionate.com.au/wp/entrepreneur/invest-time
