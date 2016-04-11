@@ -1,4 +1,4 @@
-name: Passionate Management
+name: Time Management
 favicon: null
 layout_spectrum: 0.4672530551906675
 typography_spectrum: 0.38411
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5580752971582115
+    - '#121411'
+    - '#d8d4d5'
+    - '#4e4b2a'
+    - '#9492c4'
+    - '#b59c39'
+  brandStrength: 0.25
   lightness: 0.21642647311091423
   saturation: 0.12329366570338607
-  rhythmicContrast: 0.9965518203098327
+  rhythmicContrast: 0.5
 purpose: []
